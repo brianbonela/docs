@@ -48,21 +48,20 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Services",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "How can I help you?",
             "pages": [
-              "api-reference/introduction"
+              "services/introduction"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Categories",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "services/categories/book-a-call",
+              "api-reference/endpoint/one-time-projects",
+              "services/categories/outcome-based-pricing"
             ]
           }
         ]
