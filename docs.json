@@ -4,8 +4,8 @@
   "name": "The One Person Lab by Onebrainlab Inc.",
   "colors": {
     "primary": "#C00C02",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#C00C02",
+    "dark": "#C00C02"
   },
   "favicon": "/favicon.svg",
   "navigation": {
