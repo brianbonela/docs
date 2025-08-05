@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
+  "theme": "maple",
+  "name": "The One Person Lab by Onebrainlab Inc.",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -60,7 +60,7 @@
             "group": "Categories",
             "pages": [
               "services/categories/book-a-call",
-              "api-reference/endpoint/one-time-projects",
+              "services/categories/one-time-projects",
               "services/categories/outcome-based-pricing"
             ]
           }
