@@ -14,35 +14,30 @@
         "tab": "Insights",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Welcome",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "welcome/quickstart",
+              "welcome/development"
             ]
           },
           {
-            "group": "Customization",
+            "group": "My Essays",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "essays/settings",
+              "essays/navigation",
+              "essays/markdown",
+              "essays/code",
+              "essays/images",
+              "essays/reusable-snippets"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "About Me",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "about-me/cursor",
+              "about-me/claude-code",
+              "about-me/windsurf"
             ]
           }
         ]
