@@ -53,33 +53,27 @@
     {
       "group": "Guides",
       "pages": [
-        "library/guides/automate-hiring",
-        "library/guides/build-airtable-crm",
-        "library/guides/ai-task-tracking",
-        "library/guides/project-system-framework",
-        "library/guides/revops-primer"
+        "library/guides/ai-task-tracking"
       ]
     },
     {
       "group": "Products",
       "pages": [
-        "library/products/hiring-hub",
-        "library/products/airtable-starter",
         "library/products/ai-guide",
-        "library/products/revops-toolkit",
-        "library/products/founder-ops-kit"
+        "library/products/airtable-starter",
+        "library/products/hiring-hub"
       ]
     },
     {
       "group": "Tools",
       "pages": [
+        "library/tools/automation/make",
         "library/tools/automation/n8n",
         "library/tools/automation/zapier",
-        "library/tools/automation/make",
         "library/tools/systems/airtable",
         "library/tools/systems/clickup",
-        "library/tools/systems/notion",
-        "library/tools/systems/hubspot"
+        "library/tools/systems/hubspot",
+        "library/tools/systems/notion"
       ]
     }
   ]
