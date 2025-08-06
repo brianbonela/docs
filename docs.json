@@ -42,7 +42,7 @@
           }
         ]
       },
-      {
+{
   "tab": "Library",
   "groups": [
     {
@@ -62,13 +62,58 @@
     {
       "group": "Tools",
       "pages": [
-        "library/tools/automation/make",
-        "library/tools/automation/n8n",
-        "library/tools/automation/zapier",
-        "library/tools/systems/airtable/webhooks",
-        "library/tools/systems/clickup",
-        "library/tools/systems/hubspot",
-        "library/tools/systems/notion"
+        {
+          "group": "Automations",
+          "pages": [
+            {
+              "group": "Make",
+              "pages": [
+                "library/tools/automation/make"
+              ]
+            },
+            {
+              "group": "n8n",
+              "pages": [
+                "library/tools/automation/n8n"
+              ]
+            },
+            {
+              "group": "Zapier",
+              "pages": [
+                "library/tools/automation/zapier"
+              ]
+            }
+          ]
+        },
+        {
+          "group": "Systems",
+          "pages": [
+            {
+              "group": "Airtable",
+              "pages": [
+                "library/tools/systems/airtable/webhooks"
+              ]
+            },
+            {
+              "group": "ClickUp",
+              "pages": [
+                "library/tools/systems/clickup"
+              ]
+            },
+            {
+              "group": "HubSpot",
+              "pages": [
+                "library/tools/systems/hubspot"
+              ]
+            },
+            {
+              "group": "Notion",
+              "pages": [
+                "library/tools/systems/notion"
+              ]
+            }
+          ]
+        }
       ]
     }
   ]
