@@ -84,15 +84,15 @@
           {
             "group": "How can I help you?",
             "pages": [
-              "services/introduction"
+              "clients/services/introduction"
             ]
           },
           {
             "group": "Categories",
             "pages": [
-              "services/categories/book-a-call",
-              "services/categories/one-time-projects",
-              "services/categories/outcome-based-pricing"
+              "clients/services/categories/book-a-call",
+              "clients/services/categories/one-time-projects",
+              "clients/services/categories/outcome-based-pricing"
             ]
           }
         ]
@@ -101,17 +101,17 @@
   "tab": "Community",
   "groups": [
     {
-      "group": "About",
+      "group": "Join",
       "pages": [
-        "community/benefits",
-        "community/rules"
+        "community/join/benefits",
+        "community/join/rules"
       ]
     },
     {
       "group": "Engage",
       "pages": [
-        "community/events",
-        "community/referrals"
+        "community/engage/events",
+        "community/engage/referrals"
       ]
     }
   ]
