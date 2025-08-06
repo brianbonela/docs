@@ -70,7 +70,7 @@
         "library/tools/automation/make",
         "library/tools/automation/n8n",
         "library/tools/automation/zapier",
-        "library/tools/systems/airtable",
+        "library/tools/systems/airtable/webhooks",
         "library/tools/systems/clickup",
         "library/tools/systems/hubspot",
         "library/tools/systems/notion"
