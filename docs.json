@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Insights",
         "groups": [
           {
             "group": "Getting started",
@@ -48,7 +48,7 @@
         ]
       },
       {
-        "tab": "Services",
+        "tab": "Clients",
         "groups": [
           {
             "group": "How can I help you?",
@@ -65,7 +65,19 @@
             ]
           }
         ]
-      }
+      },
+      {
+  "tab": "Updates",
+  "groups": [
+    {
+      "group": "Changelog",
+      "pages": [
+        "changelog/updates-2025",
+        "changelog/updates-2026"
+      ]
+    }
+  ]
+}
     ],
     "global": {
       "anchors": [
