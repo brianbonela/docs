@@ -48,6 +48,52 @@
         ]
       },
       {
+  "tab": "Library",
+  "groups": [
+    {
+      "group": "Guides",
+      "pages": [
+        "library/guides/automate-hiring",
+        "library/guides/build-airtable-crm",
+        "library/guides/ai-task-tracking",
+        "library/guides/project-system-framework",
+        "library/guides/revops-primer"
+      ]
+    },
+    {
+      "group": "Playbooks",
+      "pages": [
+        "library/playbooks/ops-playbook",
+        "library/playbooks/crm-systems",
+        "library/playbooks/hiring-stack",
+        "library/playbooks/automation-checklist"
+      ]
+    },
+    {
+      "group": "Products",
+      "pages": [
+        "library/products/hiring-hub",
+        "library/products/airtable-starter",
+        "library/products/ai-guide",
+        "library/products/revops-toolkit",
+        "library/products/founder-ops-kit"
+      ]
+    },
+    {
+      "group": "Tools",
+      "pages": [
+        "library/tools/automation/n8n",
+        "library/tools/automation/zapier",
+        "library/tools/automation/make",
+        "library/tools/systems/airtable",
+        "library/tools/systems/clickup",
+        "library/tools/systems/notion",
+        "library/tools/systems/hubspot"
+      ]
+    }
+  ]
+},
+      {
         "tab": "Clients",
         "groups": [
           {
@@ -66,6 +112,25 @@
           }
         ]
       },
+      {
+  "tab": "Community",
+  "groups": [
+    {
+      "group": "About",
+      "pages": [
+        "community/benefits",
+        "community/rules"
+      ]
+    },
+    {
+      "group": "Engage",
+      "pages": [
+        "community/events",
+        "community/referrals"
+      ]
+    }
+  ]
+},
       {
   "tab": "Updates",
   "groups": [
