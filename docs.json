@@ -61,15 +61,6 @@
       ]
     },
     {
-      "group": "Playbooks",
-      "pages": [
-        "library/playbooks/ops-playbook",
-        "library/playbooks/crm-systems",
-        "library/playbooks/hiring-stack",
-        "library/playbooks/automation-checklist"
-      ]
-    },
-    {
       "group": "Products",
       "pages": [
         "library/products/hiring-hub",
