@@ -6,6 +6,14 @@
     "primary": "#C00C02",
     "light": "#C00C02",
     "dark": "#FFF8F8"
+    },
+  "fonts": {
+    "heading": {
+      "family": "Sora"
+    },
+    "body": {
+      "family": "Geist"
+    }
   },
   "favicon": "/favicon.svg",
   "navigation": {
