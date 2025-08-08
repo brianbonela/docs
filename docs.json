@@ -9,10 +9,10 @@
     },
   "fonts": {
     "heading": {
-      "family": "Sora"
+      "family": "Manrope"
     },
     "body": {
-      "family": "Geist"
+      "family": "Inter"
     }
   },
   "favicon": "/favicon.svg",
