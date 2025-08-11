@@ -24,158 +24,176 @@
           {
             "group": "Welcome",
             "pages": [
-              "index",
-              "welcome/quickstart",
-              "welcome/development"
+              "insights/welcome/getting-started",
+              "insights/welcome/partnership-overview"
             ]
           },
           {
             "group": "My Essays",
             "pages": [
-              "essays/settings",
-              "essays/navigation",
-              "essays/markdown",
-              "essays/code",
-              "essays/images",
-              "essays/reusable-snippets"
+              "insights/essays/the-one-person-lab/act-1-the-problem/essay-1-freelancers-plateau",
+              "insights/essays/the-one-person-lab/act-1-the-problem/essay-2-false-binary",
+              "insights/essays/the-one-person-lab/act-1-the-problem/essay-3-lab-alternative",
+              "insights/essays/the-one-person-lab/act-2-the-method/essay-4-every-client-research-partner",
+              "insights/essays/the-one-person-lab/act-2-the-method/essay-5-2-week-experiment-protocol",
+              "insights/essays/the-one-person-lab/act-2-the-method/essay-6-tools-as-lab-equipment",
+              "insights/essays/the-one-person-lab/act-2-the-method/essay-7-documentation-engine",
+              "insights/essays/the-one-person-lab/act-2-the-method/essay-8-continuity-labs-vs-portfolios",
+              "insights/essays/the-one-person-lab/act-2-the-method/essay-9-goldilocks-niche",
+              "insights/essays/the-one-person-lab/act-3-the-system/essay-10-lab-report-revenue",
+              "insights/essays/the-one-person-lab/act-3-the-system/essay-11-failed-experiment-advantage",
+              "insights/essays/the-one-person-lab/act-3-the-system/essay-12-technician-to-head-scientist",
+              "insights/essays/the-one-person-lab/act-3-the-system/essay-13-anti-fragile-creator"
+            ]
+          },
+          {
+            "group": "Research",
+            "pages": [
+              "insights/research/pillars/lab-mindset-shift",
+              "insights/research/pillars/experimentation-infrastructure",
+              "insights/research/pillars/public-rnd-revenue",
+              "insights/research/frameworks/experiment-protocol",
+              "insights/research/frameworks/documentation-engine",
+              "insights/research/frameworks/goldilocks-niche-framework",
+              "insights/research/frameworks/lab-report-revenue-model",
+              "insights/research/diagrams/freelancer-to-lab-director",
+              "insights/research/diagrams/2-week-experiment-cycle",
+              "insights/research/diagrams/transparency-flywheel",
+              "insights/research/diagrams/antifragile-revenue-streams"
             ]
           },
           {
             "group": "About Me",
             "pages": [
-              "about-me/cursor",
-              "about-me/claude-code",
-              "about-me/windsurf"
+              "insights/about/meet-your-partner/who-i-am-and-what-i-do",
+              "insights/about/meet-your-partner/core-values-and-work-philosophy",
+              "insights/about/meet-your-partner/companies-that-inspire-me",
+              "insights/about/our-company-overview/mission-statement",
+              "insights/about/our-company-overview/core-beliefs",
+              "insights/about/our-company-overview/project-approach",
+              "insights/about/our-company-overview/services-and-offerings",
+              "insights/about/publishing-strategy/brand-voice-and-communication-style",
+              "insights/about/publishing-strategy/publishing-rhythm",
+              "insights/about/publishing-strategy/cross-essay-linking",
+              "insights/about/publishing-strategy/audience-funding-flow",
+              "insights/about/tools-and-technology-stack/software-and-platforms-i-use",
+              "insights/about/tools-and-technology-stack/technical-capabilities",
+              "insights/about/contact-information/get-in-touch-form",
+              "insights/about/contact-information/contact-details-and-availability"
             ]
           }
         ]
       },
-{
-  "tab": "Library",
-  "groups": [
-    {
-      "group": "Guides",
-      "pages": [
-        "library/guides/ai-task-tracking"
-      ]
-    },
-    {
-      "group": "Products",
-      "pages": [
-        "library/products/ai-guide",
-        "library/products/airtable-starter",
-        "library/products/hiring-hub"
-      ]
-    },
-    {
-      "group": "Tools",
-      "pages": [
-        {
-          "group": "Automations",
-          "pages": [
-            {
-              "group": "Make",
-              "pages": [
-                "library/tools/automation/make"
-              ]
-            },
-            {
-              "group": "n8n",
-              "pages": [
-                "library/tools/automation/n8n"
-              ]
-            },
-            {
-              "group": "Zapier",
-              "pages": [
-                "library/tools/automation/zapier"
-              ]
-            }
-          ]
-        },
-        {
-          "group": "Systems",
-          "pages": [
-            {
-              "group": "Airtable",
-              "pages": [
-                "library/tools/systems/airtable/webhooks"
-              ]
-            },
-            {
-              "group": "ClickUp",
-              "pages": [
-                "library/tools/systems/clickup"
-              ]
-            },
-            {
-              "group": "HubSpot",
-              "pages": [
-                "library/tools/systems/hubspot"
-              ]
-            },
-            {
-              "group": "Notion",
-              "pages": [
-                "library/tools/systems/notion"
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
       {
         "tab": "Clients",
         "groups": [
           {
-            "group": "How can I help you?",
+            "group": "Collaboration",
             "pages": [
-              "clients/services/introduction"
+              "clients/collaboration/why-partner-with-me/what-makes-me-different",
+              "clients/collaboration/why-partner-with-me/professional-background-and-experience",
+              "clients/collaboration/ideal-partnership-fit/perfect-client-profile",
+              "clients/collaboration/ideal-partnership-fit/best-project-types",
+              "clients/collaboration/how-we-work-together/getting-started-process",
+              "clients/collaboration/how-we-work-together/operating-hours-and-availability",
+              "clients/collaboration/how-we-work-together/communication-preferences",
+              "clients/collaboration/how-we-work-together/feedback-and-review-process",
+              "clients/collaboration/working-style-deep-dive/personality-and-work-style-assessment",
+              "clients/collaboration/working-style-deep-dive/project-needs-and-potential-challenges",
+              "clients/collaboration/working-style-deep-dive/stress-response-and-common-misconceptions",
+              "clients/collaboration/legal-and-agreements/terms-of-service",
+              "clients/collaboration/legal-and-agreements/confidentiality-and-non-compete-agreements"
             ]
           },
           {
-            "group": "Categories",
+            "group": "Onboarding",
             "pages": [
-              "clients/services/categories/book-a-call",
-              "clients/services/categories/one-time-projects",
-              "clients/services/categories/outcome-based-pricing"
+              "clients/onboarding/payment-and-billing-setup/payment-structure-options",
+              "clients/onboarding/payment-and-billing-setup/accepted-payment-methods",
+              "clients/onboarding/payment-and-billing-setup/invoicing-timeline",
+              "clients/onboarding/payment-and-billing-setup/late-payment-policy",
+              "clients/onboarding/project-launch-process/kickoff-meeting-agenda",
+              "clients/onboarding/project-launch-process/required-client-materials",
+              "clients/onboarding/project-launch-process/project-management-tool-setup"
+            ]
+          },
+          {
+            "group": "Execution",
+            "pages": [
+              "clients/execution/feedback-and-revisions/included-revision-rounds",
+              "clients/execution/feedback-and-revisions/feedback-submission-process",
+              "clients/execution/feedback-and-revisions/scope-change-policy",
+              "clients/execution/project-completion-and-handoff/final-deliverables-checklist",
+              "clients/execution/project-completion-and-handoff/file-delivery-methods",
+              "clients/execution/project-completion-and-handoff/post-launch-support-period",
+              "clients/execution/project-completion-and-handoff/project-documentation-and-archive"
+            ]
+          },
+          {
+            "group": "Credibility",
+            "pages": [
+              "clients/credibility/service-capabilities-overview/services-and-methodology",
+              "clients/credibility/service-capabilities-overview/team-structure",
+              "clients/credibility/service-capabilities-overview/standard-project-workflow",
+              "clients/credibility/portfolio-and-case-studies/case-study-framework",
+              "clients/credibility/portfolio-and-case-studies/how-to-access-portfolio",
+              "clients/credibility/portfolio-and-case-studies/client-success-stories",
+              "clients/credibility/qualifications-and-certifications/professional-certifications-list",
+              "clients/credibility/qualifications-and-certifications/skill-validation-and-expertise-areas"
             ]
           }
         ]
       },
       {
-  "tab": "Community",
-  "groups": [
-    {
-      "group": "Join",
-      "pages": [
-        "community/join/benefits",
-        "community/join/rules"
-      ]
-    },
-    {
-      "group": "Engage",
-      "pages": [
-        "community/engage/events",
-        "community/engage/referrals"
-      ]
-    }
-  ]
-},
+        "tab": "Community",
+        "groups": [
+          {
+            "group": "Join",
+            "pages": [
+              "community/join/about-the-lab-community/why-the-lab-exists",
+              "community/join/about-the-lab-community/my-commitment-to-members",
+              "community/join/membership-benefits/what-you-get-as-a-member",
+              "community/join/membership-benefits/community-guidelines-and-code-of-conduct",
+              "community/join/membership-benefits/inside-look-at-the-lab-experience",
+              "community/join/membership-benefits/new-member-onboarding",
+              "community/join/resources-and-support/live-training-and-workshops",
+              "community/join/resources-and-support/qa-sessions-and-office-hours",
+              "community/join/resources-and-support/exclusive-resource-library",
+              "community/join/resources-and-support/peer-collaboration-opportunities"
+            ]
+          },
+          {
+            "group": "Engage",
+            "pages": [
+              "community/engage/community-goals-and-success/our-shared-vision",
+              "community/engage/community-goals-and-success/success-metrics-and-tracking",
+              "community/engage/community-goals-and-success/collaborative-projects",
+              "community/engage/platform-guide/navigation-and-layout",
+              "community/engage/platform-guide/engagement-best-practices",
+              "community/engage/platform-guide/frequently-asked-questions",
+              "community/engage/events-and-activities/upcoming-events-calendar",
+              "community/engage/events-and-activities/event-proposal-process",
+              "community/engage/events-and-activities/past-event-recordings-and-recaps",
+              "community/engage/member-recognition/success-story-spotlights",
+              "community/engage/member-recognition/member-testimonials",
+              "community/engage/referral-program/how-referrals-work",
+              "community/engage/referral-program/referral-benefits-and-process"
+            ]
+          }
+        ]
+      },
       {
-  "tab": "Updates",
-  "groups": [
-    {
-      "group": "Changelog",
-      "pages": [
-        "changelog/updates-2025",
-        "changelog/updates-2026"
-      ]
-    }
-  ]
-}
+        "tab": "Updates",
+        "groups": [
+          {
+            "group": "Changelog",
+            "pages": [
+              "updates/changelog/2025",
+              "updates/changelog/2026"
+            ]
+          }
+        ]
+      }
     ],
     "global": {
       "anchors": [
