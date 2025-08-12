@@ -24,7 +24,6 @@
           {
             "group": "Welcome",
             "pages": [
-              "index",
               "insights/welcome/getting-started",
               "insights/welcome/partnership-overview"
             ]
