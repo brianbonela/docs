@@ -24,9 +24,122 @@
           {
             "group": "Welcome",
             "pages": [
-              "index",
               "insights/welcome/getting-started",
               "insights/welcome/partnership-overview"
+            ]
+          },
+          {
+            "group": "Essays",
+            "groups": [
+              {
+                "group": "The One-Person Lab",
+                "groups": [
+                  {
+                    "group": "Act 1: The Problem",
+                    "pages": [
+                      "insights/essays/the-one-person-lab/act-1-the-problem/essay-1-freelancers-plateau",
+                      "insights/essays/the-one-person-lab/act-1-the-problem/essay-2-false-binary",
+                      "insights/essays/the-one-person-lab/act-1-the-problem/essay-3-lab-alternative"
+                    ]
+                  },
+                  {
+                    "group": "Act 2: The Method",
+                    "pages": [
+                      "insights/essays/the-one-person-lab/act-2-the-method/essay-4-every-client-research-partner",
+                      "insights/essays/the-one-person-lab/act-2-the-method/essay-5-2-week-experiment-protocol",
+                      "insights/essays/the-one-person-lab/act-2-the-method/essay-6-tools-as-lab-equipment",
+                      "insights/essays/the-one-person-lab/act-2-the-method/essay-7-documentation-engine",
+                      "insights/essays/the-one-person-lab/act-2-the-method/essay-8-continuity-labs-vs-portfolios",
+                      "insights/essays/the-one-person-lab/act-2-the-method/essay-9-goldilocks-niche"
+                    ]
+                  },
+                  {
+                    "group": "Act 3: The System",
+                    "pages": [
+                      "insights/essays/the-one-person-lab/act-3-the-system/essay-10-lab-report-revenue",
+                      "insights/essays/the-one-person-lab/act-3-the-system/essay-11-failed-experiment-advantage",
+                      "insights/essays/the-one-person-lab/act-3-the-system/essay-12-technician-to-head-scientist",
+                      "insights/essays/the-one-person-lab/act-3-the-system/essay-13-anti-fragile-creator"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Research",
+            "groups": [
+              {
+                "group": "Diagrams",
+                "pages": [
+                  "insights/research/diagrams/2-week-experiment-cycle",
+                  "insights/research/diagrams/antifragile-revenue-streams",
+                  "insights/research/diagrams/freelancer-to-lab-director",
+                  "insights/research/diagrams/transparency-flywheel"
+                ]
+              },
+              {
+                "group": "Frameworks",
+                "pages": [
+                  "insights/research/frameworks/documentation-engine",
+                  "insights/research/frameworks/experiment-protocol",
+                  "insights/research/frameworks/goldilocks-niche-framework",
+                  "insights/research/frameworks/lab-report-revenue-model"
+                ]
+              },
+              {
+                "group": "Pillars",
+                "pages": [
+                  "insights/research/pillars/experimentation-infrastructure",
+                  "insights/research/pillars/lab-mindset-shift",
+                  "insights/research/pillars/public-rnd-revenue"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "About",
+            "groups": [
+              {
+                "group": "Meet Your Partner",
+                "pages": [
+                  "insights/about/meet-your-partner/companies-that-inspire-me",
+                  "insights/about/meet-your-partner/core-values-and-work-philosophy",
+                  "insights/about/meet-your-partner/who-i-am-and-what-i-do"
+                ]
+              },
+              {
+                "group": "Our Company Overview",
+                "pages": [
+                  "insights/about/our-company-overview/mission-statement",
+                  "insights/about/our-company-overview/core-beliefs",
+                  "insights/about/our-company-overview/project-approach",
+                  "insights/about/our-company-overview/services-and-offerings"
+                ]
+              },
+              {
+                "group": "Publishing Strategy",
+                "pages": [
+                  "insights/about/publishing-strategy/brand-voice-and-communication-style",
+                  "insights/about/publishing-strategy/publishing-rhythm",
+                  "insights/about/publishing-strategy/cross-essay-linking",
+                  "insights/about/publishing-strategy/audience-funding-flow"
+                ]
+              },
+              {
+                "group": "Tools & Technology Stack",
+                "pages": [
+                  "insights/about/tools-and-technology-stack/software-and-platforms-i-use",
+                  "insights/about/tools-and-technology-stack/technical-capabilities"
+                ]
+              },
+              {
+                "group": "Contact Information",
+                "pages": [
+                  "insights/about/contact-information/contact-details-and-availability",
+                  "insights/about/contact-information/get-in-touch-form"
+                ]
+              }
             ]
           }
         ]
