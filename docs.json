@@ -22,20 +22,20 @@
         "tab": "Insights",
         "groups": [
           {
-            "group": "Welcome",
+            "group": "welcome",
             "pages": [
               "insights/welcome/getting-started",
               "insights/welcome/partnership-overview"
             ]
           },
           {
-            "group": "Essays",
+            "group": "essays",
             "groups": [
               {
-                "group": "The One-Person Lab",
+                "group": "the-one-person-lab",
                 "groups": [
                   {
-                    "group": "Act 1: The Problem",
+                    "group": "act-1-the-problem",
                     "pages": [
                       "insights/essays/the-one-person-lab/act-1-the-problem/essay-1-freelancers-plateau",
                       "insights/essays/the-one-person-lab/act-1-the-problem/essay-2-false-binary",
@@ -43,7 +43,7 @@
                     ]
                   },
                   {
-                    "group": "Act 2: The Method",
+                    "group": "act-2-the-method",
                     "pages": [
                       "insights/essays/the-one-person-lab/act-2-the-method/essay-4-every-client-research-partner",
                       "insights/essays/the-one-person-lab/act-2-the-method/essay-5-2-week-experiment-protocol",
@@ -54,7 +54,7 @@
                     ]
                   },
                   {
-                    "group": "Act 3: The System",
+                    "group": "act-3-the-system",
                     "pages": [
                       "insights/essays/the-one-person-lab/act-3-the-system/essay-10-lab-report-revenue",
                       "insights/essays/the-one-person-lab/act-3-the-system/essay-11-failed-experiment-advantage",
@@ -67,10 +67,10 @@
             ]
           },
           {
-            "group": "Research",
+            "group": "research",
             "groups": [
               {
-                "group": "Diagrams",
+                "group": "diagrams",
                 "pages": [
                   "insights/research/diagrams/2-week-experiment-cycle",
                   "insights/research/diagrams/antifragile-revenue-streams",
@@ -79,7 +79,7 @@
                 ]
               },
               {
-                "group": "Frameworks",
+                "group": "frameworks",
                 "pages": [
                   "insights/research/frameworks/documentation-engine",
                   "insights/research/frameworks/experiment-protocol",
@@ -88,7 +88,7 @@
                 ]
               },
               {
-                "group": "Pillars",
+                "group": "pillars",
                 "pages": [
                   "insights/research/pillars/experimentation-infrastructure",
                   "insights/research/pillars/lab-mindset-shift",
@@ -98,10 +98,17 @@
             ]
           },
           {
-            "group": "About",
+            "group": "about",
             "groups": [
               {
-                "group": "Meet Your Partner",
+                "group": "contact-information",
+                "pages": [
+                  "insights/about/contact-information/contact-details-and-availability",
+                  "insights/about/contact-information/get-in-touch-form"
+                ]
+              },
+              {
+                "group": "meet-your-partner",
                 "pages": [
                   "insights/about/meet-your-partner/companies-that-inspire-me",
                   "insights/about/meet-your-partner/core-values-and-work-philosophy",
@@ -109,35 +116,28 @@
                 ]
               },
               {
-                "group": "Our Company Overview",
+                "group": "our-company-overview",
                 "pages": [
-                  "insights/about/our-company-overview/mission-statement",
                   "insights/about/our-company-overview/core-beliefs",
+                  "insights/about/our-company-overview/mission-statement",
                   "insights/about/our-company-overview/project-approach",
                   "insights/about/our-company-overview/services-and-offerings"
                 ]
               },
               {
-                "group": "Publishing Strategy",
+                "group": "publishing-strategy",
                 "pages": [
+                  "insights/about/publishing-strategy/audience-funding-flow",
                   "insights/about/publishing-strategy/brand-voice-and-communication-style",
-                  "insights/about/publishing-strategy/publishing-rhythm",
                   "insights/about/publishing-strategy/cross-essay-linking",
-                  "insights/about/publishing-strategy/audience-funding-flow"
+                  "insights/about/publishing-strategy/publishing-rhythm"
                 ]
               },
               {
-                "group": "Tools & Technology Stack",
+                "group": "tools-and-technology-stack",
                 "pages": [
                   "insights/about/tools-and-technology-stack/software-and-platforms-i-use",
                   "insights/about/tools-and-technology-stack/technical-capabilities"
-                ]
-              },
-              {
-                "group": "Contact Information",
-                "pages": [
-                  "insights/about/contact-information/contact-details-and-availability",
-                  "insights/about/contact-information/get-in-touch-form"
                 ]
               }
             ]
