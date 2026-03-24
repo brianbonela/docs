@@ -9,10 +9,10 @@
   },
   "fonts": {
     "heading": {
-      "family": "Manrope"
+      "family": "IBM Plex Serif"
     },
     "body": {
-      "family": "Inter"
+      "family": "Noto Sans"
     }
   },
   "favicon": "/favicon.svg",
@@ -395,5 +395,8 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "appearance": {
+    "default": "system"
   }
 }
