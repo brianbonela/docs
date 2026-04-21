@@ -9,10 +9,10 @@
   },
   "fonts": {
     "heading": {
-      "family": "IBM Plex Serif"
+      "family": "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
     },
     "body": {
-      "family": "Noto Sans"
+      "family": "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
     }
   },
   "favicon": "/favicon.svg",
