@@ -9,10 +9,10 @@
   },
   "fonts": {
     "heading": {
-      "family": "ui-serif, serif"
+      "family": "'Source Serif Pro', 'Source Serif 4', serif"
     },
     "body": {
-      "family": "ui-sans-serif, system-ui, -apple-system, sans-serif"
+      "family": "'Source Sans Pro', 'Source Sans 3', sans-serif"
     }
   },
   "favicon": "/favicon.svg",
