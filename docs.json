@@ -9,10 +9,10 @@
   },
   "fonts": {
     "heading": {
-      "family": "'Playfair Display', serif"
+      "family": "Playfair Display, serif"
     },
     "body": {
-      "family": "'Nunito Sans', sans-serif"
+      "family": "Nunito Sans, sans-serif"
     }
   },
   "favicon": "/favicon.svg",
