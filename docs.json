@@ -9,10 +9,10 @@
   },
   "fonts": {
     "heading": {
-      "family": "Source Serif Pro, Source Serif 4, serif"
+      "family": "'Playfair Display', serif"
     },
     "body": {
-      "family": "Source Sans Pro, Source Sans 3, sans-serif"
+      "family": "'Nunito Sans', sans-serif"
     }
   },
   "favicon": "/favicon.svg",
