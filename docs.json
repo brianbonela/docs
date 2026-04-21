@@ -9,10 +9,10 @@
   },
   "fonts": {
     "heading": {
-      "family": "'Source Serif Pro', 'Source Serif 4', serif"
+      "family": "Source Serif Pro, Source Serif 4, serif"
     },
     "body": {
-      "family": "'Source Sans Pro', 'Source Sans 3', sans-serif"
+      "family": "Source Sans Pro, Source Sans 3, sans-serif"
     }
   },
   "favicon": "/favicon.svg",
