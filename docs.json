@@ -3,16 +3,16 @@
   "theme": "willow",
   "name": "The One Person Lab by Onebrainlab Inc.",
   "colors": {
-    "primary": "#C00C02",
-    "light": "#C00C02",
-    "dark": "#C00C02"
+    "primary": "#6a5acd",
+    "light": "#6a5acd",
+    "dark": "#6a5acd"
   },
   "fonts": {
     "heading": {
-      "family": "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont"
+      "family": "ui-serif, serif"
     },
     "body": {
-      "family": "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont"
+      "family": "ui-sans-serif, system-ui, -apple-system, sans-serif"
     }
   },
   "favicon": "/favicon.svg",
