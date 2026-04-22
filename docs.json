@@ -3,9 +3,9 @@
   "theme": "willow",
   "name": "The One Person Lab by Onebrainlab Inc.",
   "colors": {
-    "primary": "#0C1225",
-    "light": "#0C1225",
-    "dark": "#0C1225"
+    "primary": "#708090",
+    "light": "#708090",
+    "dark": "#708090"
   },
   "favicon": "/favicon.svg",
   "navigation": {
